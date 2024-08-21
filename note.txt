@@ -1,0 +1,16 @@
+Laravel 8.3
+Fillament admin
+Tailwind
+
+Login admin:
+username : admin@carcare.gmail
+pass     : password
+
+1. Kurang Komponen Layout Header Belum semua di sett disemua menu.
+2. Untuk pengembangan menu berikutnya lihat template untuk designnya.
+3. Pembayaran masih upload manual dengan kirim bukti tf dan di approval admin.
+4. Fitur menggunakan session sebelum di submit kirim transfer
+5. Gambar dan thumbnail harap disesuaikan sesuai konten dan icon
+
+1. heroicons.com untuk ganti style icon Fillament
+2. unsplash.com utnuk ambil gambar dummy
